@@ -27,7 +27,7 @@ int main()
 {
     std::ifstream file;
     file.open("input.txt");
-    int val, summary, id = 0;                  // val = value summary = all id = index
+    int val, summary, id = 0;               
     char side;
     std::string str;
     std::vector<int> checkThis;
